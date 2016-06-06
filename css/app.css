@@ -1,0 +1,36 @@
+
+/*********************slider css****************/
+ul li{
+    list-style-type: none;
+
+}
+table, td, th {
+    border: 1px solid #ddd;
+    text-align: left;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th, td {
+    padding: 15px;
+}
+
+
+.span{
+    /*width:200px;*/
+    border:solid 1px grey;
+    display: inline-block;
+    padding: 10px 0;
+}
+
+.boldtag{
+    font-weight:bold;
+}
+.title2{
+    font-weight: bold;
+    vertical-align: middle;
+
+}
